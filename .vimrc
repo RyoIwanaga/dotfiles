@@ -51,7 +51,7 @@ call neobundle#end()
 filetype plugin indent on      
 
 "}}}
-" colorscheme molokai
+colorscheme molokai
 " Slimv {{{
 
 let g:slimv_lisp = '/usr/bin/sbcl'
